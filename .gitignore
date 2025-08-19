@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore logs
+logs/
+
+# Ignore PowerBI files
+powerbi/
+
+# Ignore data if you don’t want to upload raw
+data/raw/
